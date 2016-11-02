@@ -25,6 +25,8 @@ sudo service udev restart
 
 4.When plugged in over USB, can verify that your device is connected by executing `adb devices` from your SDK platform-tools/ directory. If connected, you'll see the device name listed as a "device."
 
+### Todo 
+create better read me from info found on http://stackoverflow.com/a/21068056/1815624
 ##License
 ```
 Copyright (C) 2014 Snowdream Mobile <yanghui1986527@gmail.com>
